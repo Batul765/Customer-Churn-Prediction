@@ -4,3 +4,5 @@ The ML method used is logistic regression. Logistic regression is a statistical 
 The code is written in Python and uses the scikit-learn library.
 
 ![image](https://github.com/Batul765/Customer-Churn-Prediction/assets/151876174/426e398c-61b4-43e0-9a17-9aa190386a6f)
+
+The code achieves an accuracy of 79.6%.
